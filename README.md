@@ -1,2 +1,2 @@
-# Aulas-IFSC
+# Projeto Template
 Projeto Template
